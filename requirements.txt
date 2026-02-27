@@ -1,0 +1,6 @@
+holidays
+pandas
+matplotlib
+seaborn
+spotipy
+scikit-learn
